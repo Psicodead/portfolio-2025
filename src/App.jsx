@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import logo from '/logo_v1.png'
 import './App.css'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
           Currently rebuilding my portfolio, you can contact me on my <a href="https://www.linkedin.com/in/jcramon93/" target="_blank" rel="noreferrer">LinkedIn</a>
         </p>
       </div>
+      <img className='logo' src={logo} alt="" />
     </>
   )
 }

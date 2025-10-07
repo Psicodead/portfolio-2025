@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="4.31 13.66 72.69 50.01" viewBox="0 0 81.33 77.33" xmlns="http://www.w3.org/2000/svg" data-type="shape">
+    <g>
+        <defs>
+            <clipPath id="c7376a23-7802-46ac-9657-87317895042f"/>
+            <clipPath id="d366ef9d-a7eb-441f-ab9c-d71454a2d253"/>
+        </defs>
+        <g clip-path="url(#c7376a23-7802-46ac-9657-87317895042f)">
+            <path d="M4.31 63.67V47.46h3.07q5.93 0 8.13-2.68t2.2-7.66V13.67h17.36v31.88q0 8.23-5.14 13.18t-13.88 4.94z"/>
+        </g>
+        <g clip-path="url(#d366ef9d-a7eb-441f-ab9c-d71454a2d253)">
+            <path d="M77 13.67v16.2h-3q-5.93 0-8.13 2.68t-2.2 7.66v23.46h-17.4V31.79q0-8.23 5.14-13.18t13.88-4.95z"/>
+        </g>
+    </g>
+</svg>
